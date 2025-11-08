@@ -9,18 +9,18 @@
 
 | 客户端 | 维护状态 |  Windows | macOS | 安卓 | iOS | 鸿蒙 | 仓库 | 教程 |
 |--------|----------|----------|----------|----------|----------|------|------|------|
-| [Clash for Windows](https://clashproxy.net/clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clashproxy.net/clash-for-windows) |
-| [FlClash](https://clashproxy.net/flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/flclash) |
-| [Clash Verge Rev](https://clashproxy.net/clash-verge) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/clash-verge) |
+| [Clash for Windows](https://clashproxy.net/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-forks/clash-for-windows) | [前往](https://clashproxy.net/clash-for-windows.html) |
+| [FlClash](https://clashproxy.net/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/flclash.html) |
+| [Clash Verge Rev](https://clashproxy.net/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/clash-verge.html) |
 | [ClashMi](https://www.google.com/search?q=%23-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [GUI for Clash](https://www.google.com/search?q=%23-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
 | [V2rayN](https://www.google.com/search?q=%23-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
-| [Hiddify Next](https://clashproxy.net/hiddify) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
-| [Clash Meta for Android](https://clashproxy.net/clash-meta) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clashproxy.net/clash-meta) |
-| [Clash Verge](https://clashproxy.net/clash-verge) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clashproxy.net/clash-verge) |
-| [ClashX](https://clashproxy.net/clashx) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clashproxy.net/clashx) |
-| [Clash for Android](https://clashproxy.net/clash-for-android) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clashproxy.net/clash-for-android) |
-| [ClashBox](https://clashproxy.net/clash-box) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
+| [Hiddify Next](https://clashproxy.net/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
+| [Clash Meta for Android](https://clashproxy.net/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clashproxy.net/clash-meta-for-android.html) |
+| [Clash Verge](https://clashproxy.net/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-forks/clash-verge) | [前往](https://clashproxy.net/clash-verge.html) |
+| [ClashX](https://clashproxy.net/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-forks/clashx) | [前往](https://clashproxy.net/clashx.html) |
+| [Clash for Android](https://clashproxy.net/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-forks/clash-for-android) | [前往](https://clashproxy.net/clash-for-android.html) |
+| [ClashBox](https://clashproxy.net/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | [前往](https://clashproxy.net/clash-box.html)  |
 | [Karing](https://www.google.com/search?q=%23Karing) | 🟢  |   ✅ |   ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |
 | [Nyanpasu](https://www.google.com/search?q=%23Nyanpasu) | 🟢  |   ✅  | ✅ |   ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |
 | [Pandora-Box](https://www.google.com/search?q=%23Pandora-Box) | 🟢  |   ✅  | ✅ |   ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |
@@ -37,11 +37,11 @@
 
 | 客户端 | 维护状态 |仓库| 推荐理由 |
 | :--- | :--- |:--- |  :--- |
-| **[Clash Verge Rev](https://clashproxy.net/clash-verge)** | 🟢 积极维护 |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases)  |优秀桌面客户端，界面美观，功能强大，兼容性好。 |
-| **[FlClash](https://clashproxy.net/flclash)** | 🟢 积极维护 | [官方](https://github.com/chen08209/FlClash/releases)|跨平台支持广（尤其支持 Android），配置和使用简单直观。 |
-| **[Hiddify Next](https://clashproxy.net/hiddify)** | 🟢 积极维护  | [官方](https://github.com/hiddify/hiddify-app/releases)| 最佳多协议全平台客户端，高度安全，原生支持多种加密，是追求稳定和安全的首选。 |
-| **[Clash Box](https://clashproxy.net/clash-box)** | 🟢 积极维护 | [官方](https://github.com/xiaobaigroup/ClashBox/releases) |目前市场上少数专门为 HarmonyOS (鸿蒙) 系统设计和优化的 Clash 客户端。 |
-| **[Clash Meta for Android](https://clashproxy.net/clash-meta-for-android)** | 🟢 积极维护 |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)| Clash for Android 继任者，性能优秀基于clash-meta 内核。 |
+| **[Clash Verge Rev](https://clashproxy.net/clash-verge.html)** | 🟢 积极维护 |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases)  |优秀桌面客户端，界面美观，功能强大，兼容性好。 |
+| **[FlClash](https://clashproxy.net/flclash.html)** | 🟢 积极维护 | [官方](https://github.com/chen08209/FlClash/releases)|跨平台支持广（尤其支持 Android），配置和使用简单直观。 |
+| **[Hiddify Next](https://clashproxy.net/hiddify.html)** | 🟢 积极维护  | [官方](https://github.com/hiddify/hiddify-app/releases)| 最佳多协议全平台客户端，高度安全，原生支持多种加密，是追求稳定和安全的首选。 |
+| **[Clash Box](https://clashproxy.net/clash-box.html)** | 🟢 积极维护 | [官方](https://github.com/xiaobaigroup/ClashBox/releases) |目前市场上少数专门为 HarmonyOS (鸿蒙) 系统设计和优化的 Clash 客户端。 |
+| **[Clash Meta for Android](https://clashproxy.net/clash-meta-for-android.html)** | 🟢 积极维护 |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)| Clash for Android 继任者，性能优秀基于clash-meta 内核。 |
 
 ### 1. Clash Verge Rev
 
