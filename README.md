@@ -9,18 +9,18 @@
 
 | 客户端 | 维护 |  Windows | macOS | Android | iOS | 鸿蒙 | Linux | 仓库 | 教程 |
 |--------|----------|----------|----------|----------|----------|------|------|------|------|
-| [FlClash](https://get-clash.com/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://get-clash.com/zh-CN/flclash.html) |
-| [Clash Verge Rev](https://get-clash.com/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://get-clash.com/zh-CN/clash-verge.html) |
+| [FlClash](https://git-clash.com/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://git-clash.com/zh-CN/flclash.html) |
+| [Clash Verge Rev](https://git-clash.com/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://git-clash.com/zh-CN/clash-verge.html) |
 | [ClashMi](https://github.com/KaringX/clashmi/releases) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌  |✅ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
 | [V2rayN](https://github.com/2dust/v2rayN/releases) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
-| [Hiddify Next](https://get-clash.com/zh-CN/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
-| [Clash Meta for Android](https://get-clash.com/zh-CN/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://get-clash.com/zh-CN/clash-meta-for-android.html) |
-| [Clash Verge](https://get-clash.com/zh-CN/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |✅ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://get-clash.com/zh-CN/clash-verge) |
-| [Clash for Windows](https://get-clash.com/zh-CN/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://get-clash.com/zh-CN/clash-for-windows) |
-| [ClashX](https://get-clash.com/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://get-clash.com/zh-CN/clashx) |
-| [Clash for Android](https://get-clash.com/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-android) | [前往](https://get-clash.com/zh-CN/clash-for-android.html) |
-| [ClashBox](https://get-clash.com/zh-CN/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |❌ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
+| [Hiddify Next](https://git-clash.com/zh-CN/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
+| [Clash Meta for Android](https://git-clash.com/zh-CN/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://git-clash.com/zh-CN/clash-meta-for-android.html) |
+| [Clash Verge](https://git-clash.com/zh-CN/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |✅ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://git-clash.com/zh-CN/clash-verge) |
+| [Clash for Windows](https://git-clash.com/zh-CN/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://git-clash.com/zh-CN/clash-for-windows) |
+| [ClashX](https://git-clash.com/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://git-clash.com/zh-CN/clashx) |
+| [Clash for Android](https://git-clash.com/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-android) | [前往](https://git-clash.com/zh-CN/clash-for-android.html) |
+| [ClashBox](https://git-clash.com/zh-CN/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |❌ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
 | [Karing](https://github.com/KaringX/karing/releases) | 🟢  |  ✅ |  ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/KaringX/karing/releases) | - |
 | [Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |
 | [Pandora-Box](https://github.com/snakem982/Pandora-Box/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |
